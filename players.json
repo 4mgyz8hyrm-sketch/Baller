@@ -1,0 +1,72 @@
+{
+  "team": "Swindon Rockets",
+  "season": "2026/27",
+  "players": [
+    {
+      "id": "jayden-clarke",
+      "name": "Jayden Clarke",
+      "number": 3,
+      "position": "Point Guard",
+      "height": "6'1\"",
+      "year": "Rookie",
+      "hometown": "Swindon",
+      "bio": "A quick first step and an even quicker read of the floor. Jayden sets the tempo for the Rockets, creating space for teammates and pushing the pace in transition.",
+      "stats": { "ppg": 16.8, "rpg": 3.2, "apg": 6.4, "fgPct": 47, "threePct": 38, "spg": 1.9 }
+    },
+    {
+      "id": "marcus-reed",
+      "name": "Marcus Reed",
+      "number": 11,
+      "position": "Shooting Guard",
+      "height": "6'4\"",
+      "year": "2nd Year",
+      "hometown": "Oxford",
+      "bio": "A confident perimeter scorer who thrives in close games. Marcus brings a reliable outside shot, active hands on defence and a calm presence when the pressure rises.",
+      "stats": { "ppg": 18.3, "rpg": 4.1, "apg": 2.8, "fgPct": 45, "threePct": 41, "spg": 1.3 }
+    },
+    {
+      "id": "oliver-bennett",
+      "name": "Oliver Bennett",
+      "number": 24,
+      "position": "Small Forward",
+      "height": "6'6\"",
+      "year": "3rd Year",
+      "hometown": "Bath",
+      "bio": "A versatile two-way wing, Oliver can guard multiple positions and finish through contact. His energy on the glass turns defensive stops into fast breaks.",
+      "stats": { "ppg": 12.6, "rpg": 6.7, "apg": 2.1, "fgPct": 51, "threePct": 34, "spg": 1.1 }
+    },
+    {
+      "id": "theo-morgan",
+      "name": "Theo Morgan",
+      "number": 7,
+      "position": "Power Forward",
+      "height": "6'8\"",
+      "year": "Rookie",
+      "hometown": "Chippenham",
+      "bio": "A strong interior presence with soft touch around the rim. Theo uses his size to protect the paint, set solid screens and give the Rockets a second chance on offence.",
+      "stats": { "ppg": 10.4, "rpg": 8.2, "apg": 1.6, "fgPct": 56, "threePct": 29, "spg": 0.8 }
+    },
+    {
+      "id": "leon-williams",
+      "name": "Leon Williams",
+      "number": 15,
+      "position": "Centre",
+      "height": "6'10\"",
+      "year": "4th Year",
+      "hometown": "Bristol",
+      "bio": "The anchor of the Rockets defence. Leon controls the boards, challenges every shot in the paint and offers a dependable target on the roll to the basket.",
+      "stats": { "ppg": 11.2, "rpg": 10.1, "apg": 1.2, "fgPct": 61, "threePct": 0, "spg": 0.7 }
+    },
+    {
+      "id": "samir-patel",
+      "name": "Samir Patel",
+      "number": 2,
+      "position": "Guard",
+      "height": "6'2\"",
+      "year": "2nd Year",
+      "hometown": "Swindon",
+      "bio": "A high-motor guard who can spark a run from either end of the court. Samir's pressure defence and fearless drives make him a key piece of the second unit.",
+      "stats": { "ppg": 9.7, "rpg": 2.9, "apg": 3.7, "fgPct": 43, "threePct": 36, "spg": 1.6 }
+    }
+  ]
+}
